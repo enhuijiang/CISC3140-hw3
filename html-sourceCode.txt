@@ -181,14 +181,17 @@
     </ul>
     
 
-    <div class= "CurrentData">
-        <p>
-            <script> document.write(new Date().toLocaleDateString()); </script>
-        </p>
-    </div>
+ 
 
+   
 
-    <script src="static/js/script.js"></script>  
+<p id="p1"></p>
 
+<script src="static/js/script.js" ></script>
+<script >
+      document.getElementById("p1").innerHTML= "Today is "+ date;
+</script>     
+
+    
 </body>
 </html> 
