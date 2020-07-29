@@ -183,12 +183,10 @@
 
  
 
-   
 
 <p id="p1"></p>
 
 <script src="static/js/script.js" ></script>
-
 <script >
       document.getElementById("p1").innerHTML= "Today is "+ date;
 </script>     
