@@ -8,17 +8,6 @@
     <title>My online Resume</title>
 </head>
 <style>
-    hr {
-        display: block;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-        margin-left: 18px;
-        margin-right: 18px;
-        border-style: inset;
-        border-width: 1px;
-        border-color: black;
-    }
-
 </style>
 <body > 
     <div class= "container-1">
@@ -181,6 +170,9 @@
     </ul>
     
 
+ 
+
+   
 
 <p id="p1"></p>
 
